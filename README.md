@@ -15,7 +15,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Sep 17 - [The Dukes 7 Years of Russian Cyber Espionage](https://labsblog.f-secure.com/2015/09/17/the-dukes-7-years-of-russian-cyber-espionage/) - [PDF](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
 * Sep 15 - [In Pursuit of Optical Fibers and Troop Intel: Targeted Attack Distributes PlugX in Russia](https://www.proofpoint.com/us/threat-insight/post/PlugX-in-Russia)
 * Sep 09 - [Satellite Turla: APT Command and Control in the Sky](https://securelist.com/blog/research/72081/satellite-turla-apt-command-and-control-in-the-sky/)
-* Sep 01 - [The Kittens Strike Back: Rocket Kitten Continues Attacks on Middle East Targets](http://www.trendmicro.tw/vinfo/us/security/news/cyber-attacks/rocket-kitten-continues-attacks-on-middle-east-targets) - [PDF] http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf
+* Sep 01 - [The Kittens Strike Back: Rocket Kitten Continues Attacks on Middle East Targets](http://www.trendmicro.tw/vinfo/us/security/news/cyber-attacks/rocket-kitten-continues-attacks-on-middle-east-targets) - [PDF](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf)
 * Aug 20 - [New activity of the Blue Termite APT](https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
 * Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
