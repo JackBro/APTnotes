@@ -256,6 +256,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 ## 2012
 * Nov 03 - [Systematic cyber attacks against Israeli and Palestinian targets going on for a year](http://cyber-peace.org/wp-content/uploads/2014/01/Cyberattack_against_Israeli_and_Palestinian_targets.pdf)
 * Nov 01 - [RECOVERING FROM SHAMOON](http://www.fidelissecurity.com/sites/default/files/FTA%201007%20-%20Shamoon.pdf)
+* Oct 31 - [CYBER ESPIONAGE Against Georgian Government (Georbot Botnet)](http://dea.gov.ge/uploads/CERT%20DOCS/Cyber%20Espionage.pdf)
 * Oct 27 - [Trojan.Taidoor: Targeting Think Tanks](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/trojan_taidoor-targeting_think_tanks.pdf)
 * Oct 08 - [Matasano notes on DarkComet, Bandook, CyberGate and Xtreme RAT](http://matasano.com/research/PEST-CONTROL.pdf)
 * Sep 18 - [The Mirage Campaign](http://www.secureworks.com/cyber-threat-intelligence/threats/the-mirage-campaign/)
