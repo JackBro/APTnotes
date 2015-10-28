@@ -10,6 +10,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/, https://otx.alienvault.com/pulse/5621208f4637f21ecf2aac36/)
 * Oct 15 - [Pay No Attention to the Server Behind the Proxy: Mapping FinFisher’s Continuing Proliferation](https://citizenlab.org/2015/10/mapping-finfishers-continuing-proliferation/) 
 * Oct 03 - [Webmail Server APT: A New Persistent Attack Methodology Targeting Microsoft Outlook Web Application (OWA)](http://go.cybereason.com/rs/996-YZT-709/images/Cybereason-Labs-Analysis-Webmail-Sever-APT.pdf)
+* Sep 23 - [PROJECT CAMERASHY: CLOSING THE APERTURE ON CHINA’S UNIT 78020](https://www.threatconnect.com/camerashy-intro/) - [PDF](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
 * Sep 17 - [Operation Iron Tiger: Attackers Shift from East Asia to the United States] (http://newsroom.trendmicro.com/blog/operation-iron-tiger-attackers-shift-east-asia-united-states) - [IOC](https://otx.alienvault.com/pulse/55f9910967db8c6fb35179bd/)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
 * Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
