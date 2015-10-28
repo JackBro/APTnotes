@@ -19,6 +19,7 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Oct 3 - [Webmail Server APT: A New Persistent Attack Methodology Targeting Microsoft Outlook Web Application (OWA)](http://go.cybereason.com/rs/996-YZT-709/images/Cybereason-Labs-Analysis-Webmail-Sever-APT.pdf)
 * Sep 17 - [Operation Iron Tiger: Attackers Shift from East Asia to the United States] (http://newsroom.trendmicro.com/blog/operation-iron-tiger-attackers-shift-east-asia-united-states) - [IOC](https://otx.alienvault.com/pulse/55f9910967db8c6fb35179bd/)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
 * Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
