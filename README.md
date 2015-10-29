@@ -7,18 +7,18 @@ Thank kbandla work hard for this and I begin to think to make one which fork fro
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
-* Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/, https://otx.alienvault.com/pulse/5621208f4637f21ecf2aac36/)
+* Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/, https://otx.alienvault.com/pulse/5621208f4637f21ecf2aac36/) | [LocalLink](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.10.targeted-attacks-ngo-burma.pdf)
 * Oct 15 - [Pay No Attention to the Server Behind the Proxy: Mapping FinFisher’s Continuing Proliferation](https://citizenlab.org/2015/10/mapping-finfishers-continuing-proliferation/) 
 * Oct 03 - [Webmail Server APT: A New Persistent Attack Methodology Targeting Microsoft Outlook Web Application (OWA)](http://go.cybereason.com/rs/996-YZT-709/images/Cybereason-Labs-Analysis-Webmail-Sever-APT.pdf)
 * Sep 23 - [PROJECT CAMERASHY: CLOSING THE APERTURE ON CHINA’S UNIT 78020](https://www.threatconnect.com/camerashy-intro/) - [PDF](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
-* Sep 17 - [Operation Iron Tiger: How China-Based Actors Shifted Attacks from APAC to US Targets] (http://newsroom.trendmicro.com/blog/operation-iron-tiger-attackers-shift-east-asia-united-states) - [IOC](https://otx.alienvault.com/pulse/55f9910967db8c6fb35179bd/)
+* Sep 17 - [Operation Iron Tiger: How China-Based Actors Shifted Attacks from APAC to US Targets](http://newsroom.trendmicro.com/blog/operation-iron-tiger-attackers-shift-east-asia-united-states) - [IOC](https://otx.alienvault.com/pulse/55f9910967db8c6fb35179bd/)
 * Sep 17 - [The Dukes 7 Years of Russian Cyber Espionage](https://labsblog.f-secure.com/2015/09/17/the-dukes-7-years-of-russian-cyber-espionage/) - [PDF](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
 * Sep 15 - [In Pursuit of Optical Fibers and Troop Intel: Targeted Attack Distributes PlugX in Russia](https://www.proofpoint.com/us/threat-insight/post/PlugX-in-Russia)
 * Sep 09 - [Satellite Turla: APT Command and Control in the Sky](https://securelist.com/blog/research/72081/satellite-turla-apt-command-and-control-in-the-sky/)
-* Sep 01 - [The Kittens Strike Back: Rocket Kitten Continues Attacks on Middle East Targets](http://www.trendmicro.tw/vinfo/us/security/news/cyber-attacks/rocket-kitten-continues-attacks-on-middle-east-targets) - [PDF](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf)
+* Sep 01 - [The Kittens Strike Back: Rocket Kitten Continues Attacks on Middle East Targets](http://www.trendmicro.tw/vinfo/us/security/news/cyber-attacks/rocket-kitten-continues-attacks-on-middle-east-targets) | [PDF](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf)
 * Aug 20 - [New activity of the Blue Termite APT](https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/)
 * Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
-* Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
+* Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) | [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
 * Jul 28 - [Black Vine: Formidable cyberespionage group targeted aerospace, healthcare since 2012](http://www.symantec.com/connect/blogs/black-vine-formidable-cyberespionage-group-targeted-aerospace-healthcare-2012)
 * Jul 27 - [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](https://www.fireeye.com/blog/threat-research/2015/07/hammertoss_stealthy.html)
 * Jul 22 - [Duke APT group's latest tools: cloud services and Linux support](https://www.f-secure.com/weblog/archives/00002822.html)
