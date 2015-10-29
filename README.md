@@ -1,10 +1,13 @@
 # APT Notes
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
+
 Thank kbandla work hard for this and I begin to think to make one which fork from him. So there we are. 
 
+# Change
+[1] add local link to easy find materials
 
 ## Papers
-The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
+The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
 * Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/, https://otx.alienvault.com/pulse/5621208f4637f21ecf2aac36/) | [LocalLink](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.10.targeted-attacks-ngo-burma.pdf)
