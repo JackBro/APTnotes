@@ -34,6 +34,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * Jul 20 - [Watering Hole Attack on Aerospace Firm Exploits CVE-2015-5122 to Install IsSpace Backdoor](http://researchcenter.paloaltonetworks.com/2015/07/watering-hole-attack-on-aerospace-firm-exploits-cve-2015-5122-to-install-isspace-backdoor/)
 * Jul 14 - [Tracking MiniDionis: CozyCar’s New Ride Is Related to Seaduke](http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/)
 * Jul 13 - ["Forkmeiamfamous": Seaduke, latest weapon in the Duke armory](http://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory)
+* Jul 10 - [APT Group UPS Targets US Government with Hacking Team Flash Exploit](http://researchcenter.paloaltonetworks.com/2015/07/apt-group-ups-targets-us-government-with-hacking-team-flash-exploit/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/Jul.10.APT_Group_UPS_Targets_US_Government_with_Hacking_Team_Flash_Exploit)
 * Jul 09 - [Butterfly: Corporate spies out for financial gain](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/butterfly-corporate-spies-out-for-financial-gain.pdf)
 * Jul 08 - [Wild Neutron – Economic espionage threat actor returns with new tricks](https://securelist.com/blog/research/71275/wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/)
 * Jul 08 - [APT Group Wekby Leveraging Adobe Flash Exploit (CVE-2015-5119)](http://www.volexity.com/blog/?p=158)
