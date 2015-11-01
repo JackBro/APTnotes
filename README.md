@@ -1,7 +1,7 @@
-# APT Notes
+# APT Collection
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
-Thank kbandla work hard for this and I begin to think to make one which fork from him. So there we are. 
+Thank kbandla work hard for this and I fork to my own for other ideas. 
 
 # Change
 [1] add local link to easy find materials
