@@ -10,6 +10,7 @@ Thank kbandla work hard for this and I fork to my own for other ideas.
 The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Nov 09 - [Rocket Kitten: A Campaign With 9 Lives](http://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.09.Rocket_Kitten_A_Campaign_With_9_Lives)
 * Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/, https://otx.alienvault.com/pulse/5621208f4637f21ecf2aac36/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.10.targeted-attacks-ngo-burma.pdf)
 * Oct 15 - [Pay No Attention to the Server Behind the Proxy: Mapping FinFisher’s Continuing Proliferation](https://citizenlab.org/2015/10/mapping-finfishers-continuing-proliferation/)  | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/Mapping%20FinFisher%E2%80%99s%20Continuing%20Proliferation.pdf)
 * Oct 03 - [Webmail Server APT: A New Persistent Attack Methodology Targeting Microsoft Outlook Web Application (OWA)](http://go.cybereason.com/rs/996-YZT-709/images/Cybereason-Labs-Analysis-Webmail-Sever-APT.pdf) |  [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/Cybereason-Labs-Analysis-Webmail-Sever-APT.pdf)
