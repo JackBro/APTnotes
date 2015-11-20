@@ -10,6 +10,7 @@ Thank kbandla work hard for this and I fork to my own for other ideas.
 The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Nov 19 - [Decrypting Strings in Emdivi](http://blog.jpcert.or.jp/2015/11/decrypting-strings-in-emdivi.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.19.decrypting-strings-in-emdivi)
 * Nov 18 - [Sakula Reloaded](http://blog.crowdstrike.com/sakula-reloaded/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.18.Sakula_Reloaded)
 * Nov 17 - [Special Report: Exploiting Web Analytics to Ensnare Victims](https://www2.fireeye.com/threat-intel-report-WITCHCOVEN.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.17.Pinpointing_Targets_Exploiting_Web_Analytics_to_Ensnare_Victims)
 * Nov 10 - [Bookworm Trojan: A Model of Modular Architecture](http://researchcenter.paloaltonetworks.com/2015/11/bookworm-trojan-a-model-of-modular-architecture/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.10.bookworm-trojan-a-model-of-modular-architecture)
