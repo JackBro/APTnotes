@@ -244,6 +244,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
 * Sep 13 - [Operation DeputyDog: Zero-Day (CVE-2013-3893) Attack Against Japanese Targets](http://www.fireeye.com/blog/technical/cyber-exploits/2013/09/operation-deputydog-zero-day-cve-2013-3893-attack-against-japanese-targets.html)
 * Sep 11 - [The "Kimsuky" Operation](https://securelist.com/analysis/57915/the-kimsuky-operation-a-north-korean-apt/)
+* Sep 06 - [Evasive Tactics: Taidoor](https://www.fireeye.com/blog/threat-research/2013/09/evasive-tactics-taidoor-3.html) | | [Local](https://github.com/gasgas4/APTnotes/blob/master/2013/2013.09.06.EvasiveTactics_Taidoor)
 * Sep ?? - [Feature: EvilGrab Campaign Targets Diplomatic Agencies](http://about-threats.trendmicro.com/cloud-content/us/ent-primers/pdf/2q-report-on-targeted-attack-campaigns.pdf)
 * Aug 23 - [Operation Molerats: Middle East Cyber Attacks Using Poison Ivy](http://www.fireeye.com/blog/technical/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html)
 * Aug 21 - [POISON IVY: Assessing Damage and Extracting Intelligence](http://www.fireeye.com/resources/pdfs/fireeye-poison-ivy-report.pdf)
