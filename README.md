@@ -231,11 +231,11 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * Jan 06 - [PlugX: some uncovered points](http://blog.cassidiancybersecurity.com/2014/01/plugx-some-uncovered-points.html)
 
 ## 2013
-* ??? ?? - [Detecting and Defeating the China Chopper Web Shell](http://www.fireeye.com/resources/pdfs/fireeye-china-chopper-report.pdf)
+* ??? ?? - [THE LITTLE MALWARE THAT COULD: Detecting and Defeating the China Chopper Web Shell](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-china-chopper.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2013/2013.China_Chopper_Web_Shell)
 * ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2013/2013.Deep.Panda)
 * Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)  | [Local](https://github.com/gasgas4/APTnotes/blob/master/2013/2013.12.20.ETSO)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
-* Dev 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
+* Dec 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
 * Nov 11 - [Supply Chain Analysis](http://www.fireeye.com/resources/pdfs/fireeye-malware-supply-chain.pdf)
 * Nov 10 - [Operation Ephemeral Hydra: IE Zero-Day Linked to DeputyDog Uses Diskless Method](http://www.fireeye.com/blog/technical/cyber-exploits/2013/11/operation-ephemeral-hydra-ie-zero-day-linked-to-deputydog-uses-diskless-method.html)
 * Oct 24 - [Terminator RAT](http://www.fireeye.com/blog/technical/malware-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf)
