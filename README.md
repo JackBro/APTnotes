@@ -11,6 +11,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 
 ## 2015
 * Nov 23 - [CopyKittens Attack Group](https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.23.CopyKittens_Attack_Group)
+* Nov 23 - [PEERING INTO GLASSRAT](https://blogs.rsa.com/wp-content/uploads/2015/11/GlassRAT-final.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.23.PEERING_INTO_GLASSRAT)
 * Nov 23 - [Prototype Nation: The Chinese Cybercriminal Underground in 2015](http://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/prototype-nation-the-chinese-cybercriminal-underground-in-2015/?utm_source=siblog&utm_medium=referral&amp;utm_campaign=2015-cn-ug) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.23.Prototype_Nation_The_Chinese_Cybercriminal_Underground_in_2015)
 * Nov 19 - [Russian financial cybercrime: how it works](https://securelist.com/analysis/publications/72782/russian-financial-cybercrime-how-it-works/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.18.Russian_financial_cybercrime_how_it_works)
 * Nov 19 - [Decrypting Strings in Emdivi](http://blog.jpcert.or.jp/2015/11/decrypting-strings-in-emdivi.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.19.decrypting-strings-in-emdivi)
