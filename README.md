@@ -229,7 +229,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 
 ## 2013
 * ??? ?? - [Detecting and Defeating the China Chopper Web Shell](http://www.fireeye.com/resources/pdfs/fireeye-china-chopper-report.pdf)
-* ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE)
+* ??? ?? - [Deep Panda](http://www.crowdstrike.com/sites/default/files/AdversaryIntelligenceReport_DeepPanda_0.pdf) (OFFLINE) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2013/2013.Deep.Panda)
 * Dec 20 - [ETSO APT Attacks Analysis](http://image.ahnlab.com/global/upload/download/documents/1401223631603288.pdf)
 * Dec 11 - [Operation "Ke3chang"](http://www.fireeye.com/resources/pdfs/fireeye-operation-ke3chang.pdf)
 * Dev 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
