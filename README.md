@@ -116,7 +116,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * Jan 20 - [Analysis of Project Cobra](https://blog.gdatasoftware.com/blog/article/analysis-of-project-cobra.html)
 * Jan 15 - [Evolution of Agent.BTZ to ComRAT](https://blog.gdatasoftware.com/blog/article/evolution-of-sophisticated-spyware-from-agentbtz-to-comrat.html)
 * Jan 12 - [Skeleton Key Malware Analysis](http://www.secureworks.com/cyber-threat-intelligence/threats/skeleton-key-malware-analysis/)
-* Jan 11 - [Hong Kong SWC attack](http://blog.dragonthreatlabs.com/2015/01/dtl-12012015-01-hong-kong-swc-attack.html)
+* Jan 11 - [Hong Kong SWC attack](http://blog.dragonthreatlabs.com/2015/01/dtl-12012015-01-hong-kong-swc-attack.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.01.11.Hong_Kong_SWC_Attack)
 
 ## 2014
 * Dec 22 - [Anunak: APT against financial institutions](http://www.group-ib.com/files/Anunak_APT_against_financial_institutions.pdf)
