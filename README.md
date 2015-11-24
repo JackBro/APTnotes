@@ -297,6 +297,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * Sep 12 - [The VOHO Campaign: An in depth analysis](http://blogsdev.rsa.com/wp-content/uploads/VOHO_WP_FINAL_READY-FOR-Publication-09242012_AC.pdf)
 * Sep 07 - [IEXPLORE RAT](https://citizenlab.org/wp-content/uploads/2012/09/IEXPL0RE_RAT.pdf)
 * Sep 06 - [The Elderwood Project](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf)
+* Aug 18 - [The Taidoor Campaign AN IN-DEPTH ANALYSIS ](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the_taidoor_campaign.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2012/2012.08.18.Taidoor_Campaign)
 * Aug 09 - [Gauss: Abnormal Distribution](http://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/kaspersky-lab-gauss.pdf)
 * Jul 27 - [The Madi Campaign](https://securelist.com/analysis/36609/the-madi-infostealers-a-detailed-analysis/)
 * Jul 25 - [From Bahrain With Love: FinFisher’s Spy Kit Exposed?](https://citizenlab.org/2012/07/from-bahrain-with-love-finfishers-spy-kit-exposed/)
