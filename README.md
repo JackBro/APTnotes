@@ -52,7 +52,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * Jul 08 - [Wild Neutron – Economic espionage threat actor returns with new tricks](https://securelist.com/blog/research/71275/wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/)
 * Jul 08 - [APT Group Wekby Leveraging Adobe Flash Exploit (CVE-2015-5119)](http://www.volexity.com/blog/?p=158)
 * Jun 30 - [Dino – the latest spying malware from an allegedly French espionage group analyzed](http://www.welivesecurity.com/2015/06/30/dino-spying-malware-analyzed)
-* Jun 28 - [APT on Taiwan - insight into advances of adversary TTPs](http://blog.dragonthreatlabs.com/2015/07/dtl-06282015-01-apt-on-taiwan-insight.html)
+* Jun 28 - [APT on Taiwan - insight into advances of adversary TTPs](http://blog.dragonthreatlabs.com/2015/07/dtl-06282015-01-apt-on-taiwan-insight.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.06.28.APT_on_Taiwan)
 * Jun 26 - [Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign](https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html)
 * Jun 24 - [UnFIN4ished Business (FIN4)](http://pwc.blogs.com/cyber_security_updates/2015/06/unfin4ished-business.html)
 * Jun 22 - [Winnti targeting pharmaceutical companies](https://securelist.com/blog/research/70991/games-are-over/)
