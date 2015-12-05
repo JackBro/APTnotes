@@ -10,7 +10,7 @@ Thank kbandla work hard for this and I fork to my own for other ideas.
 The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
-* Dec 04 - [Sofacy APT hits high profile targets with updated toolset](https://securelist.com/blog/research/72924/sofacy-apt-hits-high-profile-targets-with-updated-toolset/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/22015.12.04.Sofacy_APT)
+* Dec 04 - [Sofacy APT hits high profile targets with updated toolset](https://securelist.com/blog/research/72924/sofacy-apt-hits-high-profile-targets-with-updated-toolset/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.04.Sofacy_APT)
 * Dec 01 - [China-based Cyber Threat Group Uses Dropbox for Malware Communications and Targets Hong Kong Media Outlets](https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.01.China-based_Cyber_Threat_Group_Uses_Dropbox_for_Malware_Communications_and_Targets_Hong_Kong_Media_Outlets)
 * Nov 24 - [Attack Campaign on the Government of Thailand Delivers Bookworm Trojan](http://researchcenter.paloaltonetworks.com/2015/11/attack-campaign-on-the-government-of-thailand-delivers-bookworm-trojan/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.24.Attack_Campaign_on_the_Government_of_Thailand_Delivers_Bookworm_Trojan)
 * Nov 23 - [CopyKittens Attack Group](https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.11.23.CopyKittens_Attack_Group)
