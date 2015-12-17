@@ -10,6 +10,7 @@ Thank kbandla work hard for this and I fork to my own for other ideas.
 The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Dec 15 - [Newcomers in the Derusbi family](http://blog.airbuscybersecurity.com/post/2015/11/Newcomers-in-the-Derusbi-family) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.15.Newcomers_in_the_Derusbi_family)
 * Dec 08 - [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.org/2015/12/packrat-report/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.08.Packrat)
 * Dec 07 - [Thriving Beyond The Operating System: Financial Threat Group Targets Volume Boot Record](https://www.fireeye.com/blog/threat-research/2015/12/fin1-targets-boot-record.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.07.Thriving_Beyond_The_Operating_System)
 * Dec 04 - [Sofacy APT hits high profile targets with updated toolset](https://securelist.com/blog/research/72924/sofacy-apt-hits-high-profile-targets-with-updated-toolset/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.04.Sofacy_APT)
