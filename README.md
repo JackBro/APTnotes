@@ -10,6 +10,7 @@ Thank kbandla work hard for this and I fork to my own for other ideas.
 The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Dec 17 - [APT28 Under the Scope](http://download.bitdefender.com/resources/media/materials/white-papers/en/Bitdefender_In-depth_analysis_of_APT28%E2%80%93The_Political_Cyber-Espionage.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.17.APT28_Under_The_Scope)
 * Dec 16 - [Dissecting the Malware Involved in the INOCNATION Campaign](https://www.fidelissecurity.com/sites/default/files/FTA_1020_Fidelis_Inocnation_FINAL.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.16.INOCNATION.Campaign)
 * Dec 15 - [Newcomers in the Derusbi family](http://blog.airbuscybersecurity.com/post/2015/11/Newcomers-in-the-Derusbi-family) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.15.Newcomers_in_the_Derusbi_family)
 * Dec 08 - [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.org/2015/12/packrat-report/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.08.Packrat)
