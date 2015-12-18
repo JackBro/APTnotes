@@ -10,6 +10,7 @@ Thank kbandla work hard for this and I fork to my own for other ideas.
 The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Dec 16 - [Dissecting the Malware Involved in the INOCNATION Campaign](https://www.fidelissecurity.com/sites/default/files/FTA_1020_Fidelis_Inocnation_FINAL.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.16.INOCNATION.Campaign)
 * Dec 15 - [Newcomers in the Derusbi family](http://blog.airbuscybersecurity.com/post/2015/11/Newcomers-in-the-Derusbi-family) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.15.Newcomers_in_the_Derusbi_family)
 * Dec 08 - [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.org/2015/12/packrat-report/) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.08.Packrat)
 * Dec 07 - [Thriving Beyond The Operating System: Financial Threat Group Targets Volume Boot Record](https://www.fireeye.com/blog/threat-research/2015/12/fin1-targets-boot-record.html) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.12.07.Thriving_Beyond_The_Operating_System)
@@ -76,6 +77,7 @@ The [papers](https://github.com/gasgas4/APTnotes/blob/master/papers.md) section 
 * May 29 - [OceanLotusReport](http://blogs.360.cn/blog/oceanlotus-apt/)
 * May 28 - [Grabit and the RATs](https://securelist.com/blog/research/70087/grabit-and-the-rats/)
 * May 27 - [Analysis On Apt-To-Be Attack That Focusing On China's Government Agency'](http://www.antiy.net/p/analysis-on-apt-to-be-attack-that-focusing-on-chinas-government-agency/)
+* May 27 - [BlackEnergy 3 – Exfiltration of Data in ICS Networks](http://cyberx-labs.com/wp-content/uploads/2015/05/BlackEnergy-CyberX-Report_27_May_2015_FINAL.pdf) | [Local](https://github.com/gasgas4/APTnotes/blob/master/2015/2015.05.27.BlackEnergy3)
 * May 26 - [Dissecting-Linux/Moose](http://www.welivesecurity.com/wp-content/uploads/2015/05/Dissecting-LinuxMoose.pdf)
 * May 21 - [The Naikon APT and the MsnMM Campaigns](https://securelist.com/blog/research/70029/the-naikon-apt-and-the-msnmm-campaigns/)
 * May 19 - [Operation 'Oil Tanker'](http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf)
